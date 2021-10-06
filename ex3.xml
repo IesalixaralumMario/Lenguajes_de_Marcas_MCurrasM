@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<directorio_de_empresa>
+     <edificio>
+        <dirección>
+         C. Cuesta del alamillo
+        <numero_de_plantas>
+         3
+           <Planta1>
+              <Empleado>
+               Michel Nicho
+                <Puesto>Director de Videojuego</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 23/04/1997
+                 Edad: 24
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 54 75 80
+                 Tel.fijo: 965 43 07 64
+                </Extensión_Telefónica>
+              </Empleado>
+              <Empleado>
+               Sisma Grahaka
+                <Puesto>Trabajador del laboratorio</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 05/05/1989
+                 Edad: 31
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 45 71 24
+                 Tel.fijo: 968 47 12 36
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Marco Polo
+                <Puesto>Desempleado</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 23/10/1990
+                 Edad: 30
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 74 12 35
+                 Tel.fijo: 967 45 62 35 
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Franciscay Munrracon
+                <Puesto>Aviador</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 12/01/1995
+                 Edad: 26 
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 84 57 68
+                 Tel.fijo: 962 45 21 36
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Rinaka Licamicha
+                <Puesto>Cantante</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 08/10/1999
+                 Edad: 21
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 75 48 21
+                 Tel.fijo: 960 12 24 58
+                </Extensión_Telefónica> 
+              </Empleado>
+           </Planta1>
+           <Planta2>
+              <Empleado>
+               Tumako Sakamoto
+                <Puesto>Diseñadora en Videojuegos</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 12/3/1988
+                 Edad: 33
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 74 21 35
+                 Tel.fijo: 968 41 21 35
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Mojameh Mahama
+                <Puesto>Programador</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 26/5/1980
+                 Edad: 40
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 87 78 45
+                 Tel.fijo: 956 12 54 76
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Joseph Markas
+                <Puesto>Tester de Videojuegos</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 04/01/1991
+                 Edad: 30
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 77 77 77
+                 Tel.fijo: 965 75 57 75
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Maraka Marakasa
+                <Puesto>Director de doblaje</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 09/06/1987
+                 Edad: 33
+                 </Datos_Personales>
+                 <Extensión_Telefónica>
+                 Móvil: 968 99 88 79
+                 Tel.fijo: 987 45 65 29
+                 </Extensión_Telefónica>
+              </Empleado>
+              <Empleado>
+               Tumako Tikachan
+                <Puesto>Directora de diseño de Videojuego</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 05/12/1985
+                 Edad: 35
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 45 21 01
+                 Tel.fijo: 964 31 15 82
+                </Extensión_Telefónica> 
+              </Empleado>
+           </Planta2>
+           <Planta3>
+              <Empleado>
+               Carlota Roseta
+                <Puesto>Profesora</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 08/02/1982
+                 Edad: 39
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 08 50 23
+                 Tel.fijo: 965 14 25 91
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Francesco Chensuko
+                <Puesto>Panadero</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 05/07/1989
+                 Edad: 31
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 45 65 27
+                 Tel.fijo: 962 51 23 69
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Kam Jim Mon
+                <Puesto>Presidente de Sur Korea</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 06/06/1986
+                 Edad: 35
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 87 12 54
+                 Tel.fijo: 964 12 35 78
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Suman Sako
+                <Puesto>Diseño de Background de Videojuegos</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 04/06/1996
+                 Edad: 24
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 87 41 51
+                 Tel.fijo: 969 00 22 11
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Makoshito el Chiquito
+                <Puesto>Diseñador 3D de Videojuego</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 12/01/2000
+                 Edad: 21
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 42 15 62
+                 Tel.fijo: 965 48 12 36
+                </Extensión_Telefónica>
+              </Empleado>
+           </Planta3>
+        </numero_de_plantas>
+        </dirección>
+     </edificio>
+     <edificio>
+        <dirección>
+         Castroreco del pino
+        <numero_de_plantas>
+         3
+           <Planta1>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+           </Planta1>
+        </numero_de_plantas>
+        </dirección>
+     </edificio>
+     <edificio>
+        <dirección>
+         Las dos torres de Cristosuko
+        <numero_de_plantas>
+         3
+           <Planta1>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+           </Planta1>
+        </numero_de_plantas>
+        </dirección>
+     </edificio>
+</directorio_de_empresa>

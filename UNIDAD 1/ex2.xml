@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clúster>
+    <nodo>
+       <Maquinas_virtuales>
+         <nombre>
+          CarlositoPuflaptop
+         </nombre>
+         <Sistema_operativo>
+          Windows 2012
+         </Sistema_operativo>
+         <ip_y_Mac>
+          192.168.1.9/27 
+         </ip_y_Mac>
+         <nombre>
+          SuperHotWheelsPC
+         </nombre>
+         <Sistema_operativo>
+          Windows XP
+         </Sistema_operativo>
+         <ip_y_Mac>
+          172.16.3.9/26
+         </ip_y_Mac>
+         <nombre>
+          MarcosLatamSPC
+         </nombre>
+         <Sistema_operativo>
+          Windows 98
+         </Sistema_operativo>
+         <ip_y_Mac>
+          172.16.7.45/30
+         </ip_y_Mac>
+       </Maquinas_virtuales>
+    </nodo>
+    <nodo>
+       <Maquinas_virtuales>
+         <nombre>
+          ShitamukonamePCHatmiku
+         </nombre>
+         <Sistema_operativo>
+          Windows ME
+         </Sistema_operativo>
+         <ip_y_Mac>
+          1º. 172.16.5.89/30
+          2º. 192.168.4.20/28
+         </ip_y_Mac>
+         <nombre>
+          LenovoMaxUIntel+
+         </nombre>
+         <Sistema_operativo>
+          LinuxredHat
+         </Sistema_operativo>
+         <ip_y_Mac>
+          192.168.6.43/24
+         </ip_y_Mac>
+         <nombre>
+          AMD5555BoostPowerlaptop
+         </nombre>
+         <Sistema_operativo>
+          Windows Server 2019
+         </Sistema_operativo>
+         <ip_y_Mac>
+          172.16.20.45/20
+         </ip_y_Mac>
+       </Maquinas_virtuales>
+    </nodo>
+    <nodo>
+       <Maquinas_virtuales>
+         <nombre>
+          SiGmAPCIntel54385
+         </nombre>
+         <Sistema_operativo>
+          Windows 10 Home edition
+         </Sistema_operativo>
+         <ip_y_Mac>
+          192.168.78.6/28
+         </ip_y_Mac>
+         <nombre>
+          NVIDIAunrealgamesoficialPC
+         </nombre>
+         <Sistema_operativo>
+          Windows Server 2019
+         </Sistema_operativo>
+         <ip_y_Mac>
+          1º. 172.16.5.6/25
+          2º. 172.16.7.21/27
+         </ip_y_Mac>
+         <Nombre>
+          SuperJesusPCAMD1000
+         </Nombre>
+         <Sistema_operativo>
+          Linux Ubuntu 20
+         </Sistema_operativo>
+         <ip_y_Mac>
+          192.162.5.29/29
+         </ip_y_Mac>
+       </Maquinas_virtuales>
+    </nodo>
+    <nodo>
+       <Maquinas_virtuales>
+         <Nombre>
+          LeviathanColosusPC
+         </Nombre>
+         <Sistema_operativo>
+          Linux Xubuntu 5
+         </Sistema_operativo>
+         <ip_y_Mac>
+          172.16.3.43/28
+         </ip_y_Mac>
+         <Nombre>
+          AsusMercerCapLaptop
+         </Nombre>
+         <Sistema_operativo>
+          Linux Rocky 3.2
+         </Sistema_operativo>
+         <ip_y_Mac>
+          192.168.5.32/23
+         </ip_y_Mac>
+         <Nombre>
+          TitanMaxNvidiaPC
+         </Nombre>
+         <Sistema_operativo>
+          Ubuntu 20
+         </Sistema_operativo>
+         <ip_y_Mac>
+          1º. 172.16.5.24/27
+          2º. 192.168.4.6/19
+         </ip_y_Mac>
+       </Maquinas_virtuales>
+    </nodo>
+    <nodo>
+       <Maquinas_virtuales>
+         <Nombre>
+          MaximunPCSony
+         </Nombre>
+         <Sistema_operativo>
+          Mac OS X 2019
+         </Sistema_operativo>
+         <ip_y_Mac>
+          192.168.4.64/21
+         </ip_y_Mac>
+         <Nombre>
+          RascalPCgreenmoustacheintel0
+         </Nombre>
+         <Sistema_operativo>
+          eComStation
+         </Sistema_operativo>
+         <ip_y_Mac>
+          172.16.8.90/24
+         </ip_y_Mac>
+         <Nombre>
+         UltimatePCfromdawn
+         </Nombre>
+         <Sistema_operativo>
+          Windows 11
+         </Sistema_operativo>
+         <ip_y_Mac>
+          192.16.20.53/27
+         </ip_y_Mac>
+       </Maquinas_virtuales>
+    </nodo>
+</clúster>

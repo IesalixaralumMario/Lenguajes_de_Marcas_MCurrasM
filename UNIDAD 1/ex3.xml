@@ -201,16 +201,189 @@
          3
            <Planta1>
               <Empleado>
+               Juan Maroto
+                <Puesto>Guionista</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 24/03/2001
+                 Edad: 20
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 78 42 12
+                 Tel.fijo: 964 12 38 10
+                </Extensión_Telefónica> 
               </Empleado>
               <Empleado>
+               Marco Valencio
+                <Puesto>Actor</Puesto>
+                 <Datos_Personales>
+                Fecha de Nacimiento: 15/05/1998
+                Edad: 22
+                </Datos_Personales>
+               <Extensión_Telefónica>
+                Móvil: 969 25 48 62
+                Tel.fijo: 967 12 36 98
+               </Extensión_Telefónica>
               </Empleado>
               <Empleado>
+               Dan Rinos
+                <Puesto>Diseñador de hardware</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 30/3/1995
+                 Edad: 26
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 71 12 63
+                 Tel.fijo: 960 12 65 48 
+                </Extensión_Telefónica>
               </Empleado>
               <Empleado>
+               Carrosco Mortodo
+                <Puesto>Programador</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 12/12/1994
+                 Edad: 26
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 87 12 56
+                 Tel.fijo: 962 19 37 82
+                </Extensión_Telefónica> 
               </Empleado>
               <Empleado>
+               Tartos Zacros
+                <Puesto>Modelador 3D</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 23/02/1994
+                 Edad: 27
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 78 42 39
+                 Tel.fijo: 969 87 45 35
+                </Extensión_Telefónica> 
               </Empleado>
            </Planta1>
+           <Planta2>
+              <Empleado>
+               Rednik Popinski
+                <Puesto>Modelador de CGI</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 05/01/1988
+                 Edad: 33
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 78 12 36
+                 Tel.fijo: 963 85 41 98 
+              </Empleado>
+              <Empleado>
+               Samsoko Rapunako
+                <Puesto>Creador de Hardware</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 14/02/1986
+                 Edad: 36
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 71 65 39
+                 Tel.fijo: 968 48 26 59
+                </Extensión_Telefónica>  
+              </Empleado>
+              <Empleado>
+               Kumo Su Pa
+                <Puesto>Desempleado</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 06/09/1990
+                 Edad: 30
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 75 41 25
+                 Tel.fijo: 964 13 65 72
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Kamuro Simotako
+                <Puesto>Dibujante de Videojuego</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 02/05/1991
+                 Edad: 29
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 969 10 25 21
+                 Tel.fijo: 958 12 68 54
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Renasa Rekana
+                <Puesto>Programador</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 08/03/2000
+                 Edad: 21
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 968 78 98 45
+                 Tel.fijo: 985 15 65 42
+                </Extensión_Telefónica> 
+              </Empleado>
+           </Planta2>
+           <Planta3>
+              <Empleado>
+               Rem Mollok
+                <Puesto>Director de marqueting de Videojuego</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 09/06/1995
+                 Edad: 25
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 987 95 48 86
+                 Tel.fijo: 954 78 16 85
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Marcus Rufflan
+                <Puesto>Compositor de Videojuego</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 05/02/1997
+                 Edad: 24
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 975 75 68 92
+                 Tel.fijo: 973 52 04 65
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Arcane Rezuma
+                <Puesto>Desarrollo de negocio de Videojuego</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 04/11/1996
+                 Edad: 24
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 958 78 45 56
+                 Tel.fijo: 987 75 13 65
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Karam Maeakan
+                <Puesto>Actor</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 05/02/1992
+                 Edad: 29
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 942 56 87 95
+                 Tel.fijo: 954 45 68 78
+                </Extensión_Telefónica> 
+              </Empleado>
+              <Empleado>
+               Uramos Ricargo
+                <Puesto>Diseño de sonido de Videojuego</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 20/03/1999
+                 Edad: 23
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 938 85 98 62
+                 Tel.fijo: 975 69 85 21
+                </Extensión_Telefónica> 
+              </Empleado>
+           </Planta3>
         </numero_de_plantas>
         </dirección>
      </edificio>
@@ -221,16 +394,60 @@
          3
            <Planta1>
               <Empleado>
+               Kamoto Ricana
+                <Puesto>Actriz de doblaje</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 28/03/1994
+                 Edad: 27
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 986 65 43 81
+                 Tel.fijo: 965 27 68 32
+                </Extensión_Telefónica> 
               </Empleado>
               <Empleado>
+               Ruman Raman
+                <Puesto>Productor de Videojuegos</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 19/04/1998
+                 Edad: 23
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 968 78 98 54
+                 Tel.fijo: 978 75 42 68 
               </Empleado>
               <Empleado>
+               Musco remon
               </Empleado>
               <Empleado>
               </Empleado>
               <Empleado>
               </Empleado>
            </Planta1>
+           <Planta2>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+           </Planta2>
+           <Planta3>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+              <Empleado>
+              </Empleado>
+           </Planta3>
         </numero_de_plantas>
         </dirección>
      </edificio>

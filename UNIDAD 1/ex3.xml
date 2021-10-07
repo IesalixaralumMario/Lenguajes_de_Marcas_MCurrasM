@@ -415,37 +415,166 @@
                 <Extensión_Telefónica>
                  Móvil: 968 78 98 54
                  Tel.fijo: 978 75 42 68 
+                </Extensión_Telefónica> 
               </Empleado>
               <Empleado>
                Musco remon
+                <Puesto>Florero</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 18/08/1999
+                 Edad: 21
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 948 78 56 89
+                 Tel.fijo: 978 56 21 54
+                </Extensión_Telefónica> 
               </Empleado>
               <Empleado>
+               Menta Crus
+                <Puesto>Técnico</Puesto>
+                 <Datos_Personales>
+                 Fecha de Nacimiento: 23/04/1982
+                 Edad: 39
+                 </Datos_Personales>
+                <Extensión_Telefónica>
+                 Móvil: 976 85 89 03
+                 Tel.fijo: 976 78 39 24
+                </Extensión_Telefónica> 
               </Empleado>
               <Empleado>
+               Turk Nork
+               <Puesto>Tester de enemigos de Videojuego</Puesto>
+                <Datos_Personales>
+                Fecha de Nacimiento: 24/06/1988
+                Edad: 32
+                </Datos_Personales>
+               <Extensión_Telefónica>
+                Móvil: 978 45 82 64
+                Tel.fijo: 984 58 21 68 
+               </Extensión_Telefónica>
               </Empleado>
            </Planta1>
            <Planta2>
               <Empleado>
+               Moko Soko
+               <Puesto>Guionista</Puesto>
+                <Datos_Personales>
+                Fecha de Nacimiento: 16/06/1992
+                Edad: 28
+                </Datos_Personales>
+               <Extensión_Telefónica>
+                Móvil: 987 78 54 23
+                Tel.fijo: 978 54 12 38
+               </Extensión_Telefónica>
               </Empleado>
               <Empleado>
+               Shisho Shimosiko
+               <Puesto>Programación</Puesto>
+                <Datos_Personales>
+                Fecha de Nacimiento: 24/03/1996
+                Edad: 26
+                </Datos_Personales>
+               <Extensión_Telefónica>
+                Móvil: 982 45 68 98
+                Tel.fijo: 956 87 54 12
+               </Extensión_Telefónica> 
               </Empleado>
               <Empleado>
+               Zoko Sucato
+               <Puesto>Artista de Videojuegos</Puesto>
+                <Datos_Personales>
+                Fecha de Nacimiento: 15/03/1998
+                Edad: 27
+                </Datos_Personales>
+               <Extensión_Telefónica>
+                Móvil: 985 12 74 35
+                Tel.fijo: 975 42 35 99 
               </Empleado>
               <Empleado>
+               Xos Xams
+               <Puesto>Gestor de Videojuegos</Puesto>
+                <Datos_Personales>
+                Fecha de Nacimiento: 03/01/1995
+                Edad: 26
+                </Datos_Personales>
+               <Extensión_Telefónica>
+                Móvil: 985 48 68 26
+                Tel.fijo: 952 36 53 19
+               </Extensión_Telefónica> 
               </Empleado>
               <Empleado>
+               Ñoa Ñoco
+               <Puesto>Diseño Narrativo de videojuego</Puesto>
+                <Datos_Personales>
+                Fecha de Nacimiento: 02/08/1994
+                Edad: 26
+                </Datos_Personales>
+               <Extensión_Telefónica>
+                Móvil: 924 48 68 25
+                Tel.fijo: 963 26 35 82
+               </Extensión_Telefónica> 
               </Empleado>
            </Planta2>
            <Planta3>
               <Empleado>
+               Nuro Obstango
+               <Puesto>Director de Marketing</Puesto>
+                <Datos_Personales>
+                Fecha de Nacimiento: 25/03/1997
+                Edad: 24
+                </Datos_Personales>
+               <Extensión_Telefónica>
+                Móvil: 987 15 68 35
+                Tel.fijo: 912 36 85 12
+               </Extensión_Telefónica> 
               </Empleado>
               <Empleado>
+               Mako Hato
+               <Puesto>Diseñador de Personaje de Videojuegos</Puesto>
+                <Datos_Personales>
+                Fecha de Nacimiento: 09/10/2000
+                Edad: 20
+                </Datos_Personales>
+               <Extensión_Telefónica>
+                Móvil: 972 15 38 26
+                Tel.fijo: 952 36 18 93
+               </Extensión_Telefónica> 
               </Empleado>
               <Empleado>
+               Runo Sekto
+               <Puesto>Artista</Puesto>
+                <Datos_Personales>
+                Fecha de Nacimiento: 25/02/1990
+                Edad: 31
+                </Datos_Personales>
+               <Extensión_Telefónica>
+                Móvil: 974 58 68 24
+                Tel.fijo: 972 35 18 68
+               </Extensión_Telefónica>
               </Empleado>
               <Empleado>
+               Majo Pusho
+               <Puesto>Desempleado</Puesto>
+                <Datos_Personales>
+                Fecha de Nacimiento: 19/05/1980
+                Edad: 40
+                </Datos_Personales>
+               <Extensión_Telefónica>
+                Móvil: 984 78 59 62
+                Tel.fijo: 945 48 21 68
+               </Extensión_Telefónica>  
               </Empleado>
               <Empleado>
+               Riks Trackster
+               <Puesto>Tester de Fases de Videojuegos</Puesto>
+                <Datos_Personales>
+                Fecha de Nacimiento: 08/04/1979
+                Edad: 42
+                </Datos_Personales>
+               <Extensión_Telefónica>
+                Móvil: 913 68 45 24
+                Tel.fijo: 954 12 36 85
+               </Extensión_Telefónica> 
               </Empleado>
            </Planta3>
         </numero_de_plantas>
